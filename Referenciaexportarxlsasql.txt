@@ -1,0 +1,56 @@
+/*** Referencias para la exportacion de Excel a SQL ***/
+
+## PAQUETE DE INSTALACION ##
+
+1.-https://www.microsoft.com/en-us/download/details.aspx?id=13255
+2.-https://www.microsoft.com/en-us/download/confirmation.aspx?id=23734
+
+-----------------------------------------
+
+## INFORMACION PARA RELEVANTE PARA LA EXPORTACION ##
+
+1.-https://support.microsoft.com/es-es/kb/321686
+
+2.-https://letrasandnumeros.com/2010/03/27/cargar-un-archivo-de-excel-en-sql-server-2008-x64/
+
+3.-http://freyes.svetlian.com/ADOExcel/ado-excel.htm
+
+4.-http://qiku.es/pregunta/64577/el-proveedor-ole-db-quot-microsoftaceoledb120-quot-para-el-servidor-ligado-quot-null-quot-the-ole-db-provider-quotmicrosoftaceoledb120quot-for-linked-server-quotnullquot
+
+5.-http://qiku.es/pregunta/170136/sql-server-no-se-puede-inicializar-el-objeto-de-origen-de-datos-del-proveedor-de-ole-db-quot-microsoftaceoledb120-quot-para-el-servidor-ligado-quot-null-quot-sql-server-cannot-initialize-the-data-source-object-of-ole-db-provider-quotmicrosoftaceoledb120quot-for-linked-server-quotnullquot
+
+6.-http://axy108.blogspot.mx/2007/08/exportar-e-importar-datos-de-sql-excel.html -> (INTERESANTE)
+
+7.-http://es.slideshare.net/axslide/tuto-importar-datossql -> (INTERESANTE)
+
+8.-http://www.todoexpertos.com/categorias/tecnologia-e-internet/bases-de-datos/sql-server/respuestas/2103484/exportar-o-importar-datos-de-excel-a-sql
+
+9.-http://www.excel-sql-server.com/excel-import-to-sql-server-using-linked-servers.htm -> (INTERESANTE)
+
+10.-http://www.excel-sql-server.com/excel-import-to-sql-server-using-distributed-queries.htm -> (INTERESANTE)
+
+11.-http://cuencagrijalva.ecosur.mx/cuenca_grijalva/files/informe_Final/sp03_archivos/03_0431a_Pres_Curso_SQL_13a_Final_092012_Revisionado.pdf -> (INTERESANTE)
+
+12.-http://stackoverflow.com/questions/375991/import-excel-spreadsheet-columns-into-sql-server-database
+
+13.-http://www.ashishblog.com/importexport-excel-xlsx-or-xls-file-into-sql-server/ -> (INTERESANTE)
+
+14.-https://letrasandnumeros.com/2010/03/27/cargar-un-archivo-de-excel-en-sql-server-2008-x64/ -> (INTERESANTE)
+
+15.-http://stackoverflow.com/questions/9687631/openrowset-with-excel-file -> (INTERESANTE)
+
+16.-https://www.mssqltips.com/sqlservertip/1207/different-options-for-importing-data-into-sql-server/ -> (INTERESANTE)
+
+17.-https://www.connectionstrings.com/microsoft-jet-ole-db-4-0/  -> (INTERESANTE)
+
+18.-http://www.vlsoftware.net/documentation/exportizer/connection-strings-examples.htm -> (INTERESANTE)
+
+19.-http://stackoverflow.com/questions/13888082/ole-db-provider-microsoft-ace-oledb-12-0-for-linked-server-null-returned-m
+
+20.-http://instruccionsql.blogspot.mx/2011/10/importar-desde-excel-sql.html
+
+21.-http://qiku.es/pregunta/163812/ole-db-proveedor-microsoftjetoledb40-no-se-puede-usar-para-consultas-distribuidas-ole-db-provider-39microsoftjetoledb4039-cannot-be-used-for-distributed-queries
+
+22.-https://translate.googleusercontent.com/translate_c?depth=1&hl=es&prev=search&rurl=translate.google.com.mx&sl=en&u=http://dba.stackexchange.com/questions/60094/sql-server-error-importing-an-excel-sheet&usg=ALkJrhgTHdbGAioTY6F1M8Wy8Req6F-orA
+
+23.-http://deerme.org/databases/leer-datos-de-una-planilla-excel-en-sql-server -> (INTERESANTE)
