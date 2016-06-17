@@ -15,3 +15,5 @@ al terminar la instalacion es necesario un reinicio del servidor.
 
 Una vez instalado se tienen que habilitar algunas opciones dentro de SQL Server Management Studio (SSMS), mostrados
 en el script ACEOLEDB12.sql
+
+Posteriormente se crea la base de datos y se posiciona el xls en raiz para poder leerlo sin problemas.
