@@ -17,3 +17,7 @@ SELECT * INTO [prueba].[dbo].[MTS2] FROM OPENROWSET('Microsoft.ACE.OLEDB.12.0',
 SELECT * INTO [prueba].[dbo].[MTS3] FROM OPENDATASOURCE('Microsoft.ACE.OLEDB.12.0',
 'Data Source=C:\excel\MTS.xlsx;Extended Properties=Excel 8.0')...[MTS$]
 
+/* exporta los datos a un excel */
+INSERT INTO OPENROWSET('Microsoft.ACE.OLEDB.12.0', 
+'Excel 12.0;HDR=YES;Database=C:\excel\MTS.xlsx;', 
+'SELECT * FROM [MTS$]') SELECT * FROM [DB-LMP-TEST].[dbo].[VisitasBitacora]
